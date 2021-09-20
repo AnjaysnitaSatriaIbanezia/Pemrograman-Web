@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+.nav{
+  padding: 0;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-align: center;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+</head>
+<body>
+
+  <div nav>
+<ul>
+  <li><a class="active" href="#tour">Tour</a></li>
+  <li><a href="#product">Product</a></li>
+  <li><a href="#features">Features</a></li>
+  <li><a href="#enterprise">Enterprise</a></li>
+  <li><a href="#support">Support</a></li>
+  <li><a href="#pricing">Pricing</a></li>
+  <li><a href="#cart">Cart</a></li>
+</ul>
+
+<div class="artikel">
+  <img src="" alt="" />
+  <h1> Punny Headline</h1>
+  <b>And an even wittier subheading to boot. Jumpstart your marketing efforts with this example based on Apple’s marketing pages.</b>
+  <p></p>
+  <a href="">Coming Soon</a>
+</div>
+  <div class="artikel">
+  <img src="" alt="" />
+  <h1> Another Headline</h1>
+  <b>And an even wittier subheading.</b>
+  <p></p>
+</div>
+<div class="artikel">
+<img src="" alt="" />
+<h1> Another Headline</h1>
+<b>And an even wittier subheading.</b>
+<p></p>
+</div>
+<div class="artikel">
+<img src="" alt="" />
+<h1> Another Headline</h1>
+<b>And an even wittier subheading.</b>
+<p></p>
+</div>
+<div class="artikel">
+<img src="" alt="" />
+<h1> Another Headline</h1>
+<b>And an even wittier subheading.</b>
+<p></p>
+</div>
+<div class="artikel">
+<img src="" alt="" />
+<h1> Another Headline</h1>
+<b>And an even wittier subheading.</b>
+<p></p>
+</div>
+<div class="artikel">
+<img src="" alt="" />
+<h1> Another Headline</h1>
+<b>And an even wittier subheading.</b>
+<p></p>
+</div>
+<div class="artikel">
+<img src="" alt="" />
+<h1> Another Headline</h1>
+<b>And an even wittier subheading.</b>
+<p></p>
+</div>
+</div>
+</div>
+</body>
+</html>
